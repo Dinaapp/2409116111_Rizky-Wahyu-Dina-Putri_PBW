@@ -4,6 +4,7 @@
 # PERSONAL PORTOFOLIO WEBSITE
 
 ## Deskripsi
+Website personal portofolio yang dibangun menggunakan HTML, CSS, Bootstrap 5, dan Vue JS 3. Website ini bertujuan untuk menampilkan profil pribadi, pengalaman, keterampilan, dan pencapaian. 
 
 ## Teknologi Yang Digunakan
 ### 1. HTML 5
