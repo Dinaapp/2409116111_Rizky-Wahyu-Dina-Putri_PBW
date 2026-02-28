@@ -99,6 +99,8 @@ pada kode class="nav nav-tabs ms-auto", nav dan nav-tabs adalah class Bootstrap 
 ```
 ### Section Home (Hero)
 
+<img width="1889" height="939" alt="image" src="https://github.com/user-attachments/assets/1a37b776-9ef5-4460-95ac-0b8eb7a29588" />
+
 ```html
     <!-- Section Home (Hero) -->
     <section id="home" class="vh-100 d-flex align-items-center justify-content-center position-relative overflow-hidden">
@@ -226,6 +228,8 @@ heroVisible adalah computed property yang mengembalikan true jika scrollY kurang
 Bagian .hero-eyebrow, .hero-name, dan .hero-subtitle mengatur tampilan teks di hero section. .hero-name adalah teks utama (nama) dengan ukuran besar dan responsif menggunakan clamp(). .hero-subtitle berfungsi sebagai quotes di bawah nama. Semua elemen hero awalnya dibuat transparan dan digeser ke bawah menggunakan opacity: 0 dan transform: translateY(40px), lalu dianimasikan dengan class .hero-text-in saat muncul dan .hero-text-out saat menghilang. Animasi heroFadeIn membuat teks naik dan fade in secara bertahap dengan delay berbeda supaya muncul satu per satu, sedangkan heroFadeOut membuat teks naik ke atas dan menghilang saat user scroll ke bawah.
 
 ### Section About Me
+
+<img width="1896" height="849" alt="image" src="https://github.com/user-attachments/assets/5e76e809-2766-4139-b4b1-127d9b2ba9b8" />
 
 ```html
     <!-- Section About Me -->
@@ -382,6 +386,9 @@ Section ini menampilkan 3 kolom yang tersusun horizontal. Kolom kiri menampilkan
 photo ring berukuran 300×460px dengan border-radius: 28px agar berbentuk persegi panjang dengan border lengkung. Animasi ringPulse membuat box shadow menjadi cahaya di sekeliling foto. object-fit: cover dan object-position: top pada profile-photo memastikan foto fit pada photo ringnya.
 
 ### Skill Cards
+
+<img width="1178" height="381" alt="image" src="https://github.com/user-attachments/assets/61f8bc57-3eab-4279-b616-cf82e5325684" />
+
 ```html
             <div class="skills-row-wrapper mb-5">
                 <div class="skills-row-group">
@@ -484,6 +491,9 @@ Setiap card berisi nama skill dan progress bar putih. Saat pertama kali user scr
 
 ```
 ### Experience Carousel
+
+<img width="1520" height="808" alt="image" src="https://github.com/user-attachments/assets/ad582efa-0187-4995-8573-dc19e02812b7" />
+
 ```html
             <h4 class="text-white text-center mb-4 fw-semibold">Experience</h4>
             <div id="carouselExperience" class="carousel slide experience-carousel" data-bs-ride="carousel">
@@ -634,6 +644,10 @@ Di bawah skill cards terdapat judul "Experience" dan carousel Bootstrap tiga sli
 
 ### Section Certificates
 
+<img width="1831" height="827" alt="image" src="https://github.com/user-attachments/assets/17a1c83b-629f-4439-83d1-e2da33c19ced" />
+
+<img width="1881" height="924" alt="image" src="https://github.com/user-attachments/assets/f34c8cfb-8f48-4239-96aa-8ea71ced23d7" />
+
 ```html
     <section id="certificates" class="py-5 section-pad">
         <div class="container">
@@ -688,3 +702,20 @@ Section Certificates ini dibuat untuk menampilkan semua sertifikat dalam bentuk 
         }
 ```
 document.body.style.overflow = 'hidden' mencegah halaman di-scroll ketika modal terbuka. document.body.style.overflow = 'auto' mengembalikannya ke normal saat modal ditutup.
+
+# DOKUMENTASI
+
+<img width="1891" height="946" alt="image" src="https://github.com/user-attachments/assets/ae3586a6-cbf9-4fa7-8429-33a77ca92c7f" />
+
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/0f8e6cf6-63df-4c75-9b00-421797b67af8" />
+
+<img width="1900" height="953" alt="image" src="https://github.com/user-attachments/assets/f2f48d04-8539-4a22-b3b6-7aaf638a7119" />
+
+<img width="1891" height="945" alt="image" src="https://github.com/user-attachments/assets/5dda0b5d-183e-4443-9b2c-966035d1eec8" />
+
+<img width="1892" height="945" alt="image" src="https://github.com/user-attachments/assets/1a11656a-aab4-4a51-a16b-541698e57076" />
+
+<img width="1889" height="944" alt="image" src="https://github.com/user-attachments/assets/b401bb41-8e21-4f8a-981b-e5f2c689a178" />
+
+<img width="1881" height="924" alt="image" src="https://github.com/user-attachments/assets/4e1c4222-8782-4169-a732-0aa50efaaca1" />
+
